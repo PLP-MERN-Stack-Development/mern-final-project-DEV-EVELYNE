@@ -4,7 +4,7 @@ This is an AI-powered platform that takes a business idea and generates a comple
 
 You give it a prompt like "AI-powered logistics app in Kenya", and it creates sections like Executive Summary, Financial Projections, SWOT, Marketing Strategy, etc.
 
-The generated plan is editable, and in the future, you’ll be able to save it for later use.
+The generated plan is in the few days to come, you’ll be able to edit and save it for later use.
 
 Key point: Right now, the plan is generated and displayed. Saving, exporting, and pitch decks are planned for later.
 
@@ -175,9 +175,7 @@ cd ../backend
 npm install
 node src/server.js
 
-
-
-Future usage improvements:
+**Future usage improvements:**
 
 Once saving is implemented, users can store plans in the database.
 
@@ -185,9 +183,14 @@ When export is implemented, users can download plans in various formats.
 
 When pitch deck is implemented, users can convert plans into investor-ready presentations.
 
-9. Screenshots
-10. <img width="1813" height="961" alt="image" src="https://github.com/user-attachments/assets/d6e55bc2-1568-4a2f-a92d-e7fef5933e6b" />
-11. <img width="1095" height="944" alt="image" src="https://github.com/user-attachments/assets/3a458548-a66a-431f-b894-563d8d2c6a47" />
+**9.** **Deployment**
+https://bizplan-ai.vercel.app/
+**pitchdeck**
+https://gamma.app/docs/Bizplanai-AI-Powered-Business-Plan-Generator-for-Any-Venture-gq9whf1etr0uarj?mode=doc
+
+**10.** **Screenshots**
+<img width="1813" height="961" alt="image" src="https://github.com/user-attachments/assets/d6e55bc2-1568-4a2f-a92d-e7fef5933e6b" />
+<img width="1095" height="944" alt="image" src="https://github.com/user-attachments/assets/3a458548-a66a-431f-b894-563d8d2c6a47" />
 <img width="1911" height="688" alt="image" src="https://github.com/user-attachments/assets/8d5cb0f1-4a61-4129-b2cd-689ed4b6cb64" />
 
 
